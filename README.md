@@ -19,7 +19,7 @@ Think *"DevTools for URLs"*, but beautiful.
 
 ---
 
-### 🛠️ Tech Stack Love
+### 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,prisma,postgres,supabase,vercel,figma" alt="Tech stack" />
 
